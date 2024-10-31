@@ -1,0 +1,21 @@
+.custom_checkbox_wrap{
+	float:left;
+	width:50%;
+}
+.custom_checkbox_wrap ul{
+	float:left;
+	width:100%;
+}
+.custom_checkbox_wrap ul li{
+	float:left;
+	width:auto;
+	list-style-type:none;
+	margin: 0 10px 10px 0;
+}
+.custom_checkbox_wrap ul li .checkbox_content{
+	width:350px;
+}
+.custom_checkbox_wrap ul li img{
+	width:170px;
+	height:auto;
+}
